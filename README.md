@@ -19,4 +19,4 @@ $ bundle exec ruby fetch.rb list.json
 
 MIT License とします。
 
-レポジトリに含まれている `list.json` は、[地方公共団体情報システム機構](https://www.j-lis.go.jp/index.html) の Web サイトから開発者が取得したデータにより構成されています。
+レポジトリに含まれている `out.json` は、[地方公共団体情報システム機構](https://www.j-lis.go.jp/index.html) の Web サイトから開発者が取得したデータにより構成されています。
