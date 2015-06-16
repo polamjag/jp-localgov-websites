@@ -23,7 +23,9 @@ def parse_table(table)
       name: tr.text.strip,
       url: tr.attribute('href').value
    }
-  end)
+  end).compact.select do |elm|
+    elm[:name] =~ /([市区町村都道府県]|総合振興局)$/
+  end
 end
 
 page = Nokogiri::HTML.parse open host + entrypoint

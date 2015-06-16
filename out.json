@@ -7,10 +7,6 @@
         "url": "http://www.pref.aomori.lg.jp/"
       },
       {
-        "name": "青森県電子申請・届出システム 総合窓口",
-        "url": "https://s-kantan.com/pref-aomori-u/"
-      },
-      {
         "name": "青森市",
         "url": "http://www.city.aomori.aomori.jp/"
       },
@@ -184,24 +180,12 @@
         "url": "http://www.sorachi.pref.hokkaido.lg.jp/"
       },
       {
-        "name": "石狩振興局",
-        "url": "http://www.ishikari.pref.hokkaido.lg.jp/"
-      },
-      {
         "name": "後志総合振興局",
         "url": "http://www.shiribeshi.pref.hokkaido.lg.jp/"
       },
       {
         "name": "胆振総合振興局",
         "url": "http://www.iburi.pref.hokkaido.lg.jp/"
-      },
-      {
-        "name": "日高振興局",
-        "url": "http://www.hidaka.pref.hokkaido.lg.jp/"
-      },
-      {
-        "name": "北海道電子自治体共同システム 総合窓口",
-        "url": "https://www.harp.lg.jp/"
       },
       {
         "name": "札幌市",
@@ -528,10 +512,6 @@
         "url": "http://www.oshima.pref.hokkaido.lg.jp/"
       },
       {
-        "name": "檜山振興局",
-        "url": "http://www.hiyama.pref.hokkaido.lg.jp/"
-      },
-      {
         "name": "函館市",
         "url": "http://www.city.hakodate.hokkaido.jp/"
       },
@@ -606,10 +586,6 @@
       {
         "name": "上川総合振興局",
         "url": "http://www.kamikawa.pref.hokkaido.lg.jp/"
-      },
-      {
-        "name": "留萌振興局",
-        "url": "http://www.rumoi.pref.hokkaido.lg.jp/"
       },
       {
         "name": "宗谷総合振興局",
@@ -790,10 +766,6 @@
       {
         "name": "釧路総合振興局",
         "url": "http://www.kushiro.pref.hokkaido.lg.jp/"
-      },
-      {
-        "name": "根室振興局",
-        "url": "http://www.nemuro.pref.hokkaido.lg.jp/"
       },
       {
         "name": "釧路市",
@@ -1005,10 +977,6 @@
         "url": "http://www.pref.akita.lg.jp/"
       },
       {
-        "name": "秋田県電子申請・届出サービス",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/akita/"
-      },
-      {
         "name": "秋田市",
         "url": "http://www.city.akita.akita.jp/"
       },
@@ -1107,10 +1075,6 @@
       {
         "name": "東成瀬村",
         "url": "http://www.higashinaruse.com/"
-      },
-      {
-        "name": "大曲仙北広域市町村圏組合",
-        "url": "http://www.os-kouiki.org/"
       }
     ]
   },
@@ -1118,16 +1082,8 @@
     "pref": "岩手県",
     "municipalities": [
       {
-        "name": "いわて防災情報ポータル",
-        "url": "http://www2.pref.iwate.jp/~bousai/"
-      },
-      {
         "name": "岩手県",
         "url": "http://www.pref.iwate.jp/"
-      },
-      {
-        "name": "岩手県電子申請・届出汎用受付システム",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/MainMenu.do?lcd=030007"
       },
       {
         "name": "盛岡市",
@@ -1271,10 +1227,6 @@
         "url": "http://www.pref.yamagata.jp/"
       },
       {
-        "name": "やまがたe申請",
-        "url": "https://www.e-tetsuzuki99.com/eap-pj/yamagata/"
-      },
-      {
         "name": "山形市",
         "url": "http://www.city.yamagata-yamagata.lg.jp/"
       },
@@ -1413,10 +1365,6 @@
       {
         "name": "遊佐町",
         "url": "http://www.town.yuza.yamagata.jp/"
-      },
-      {
-        "name": "置賜広域行政事務組合",
-        "url": "http://www.okikou.or.jp/"
       }
     ]
   },
@@ -1426,10 +1374,6 @@
       {
         "name": "宮城県",
         "url": "http://www.pref.miyagi.jp/"
-      },
-      {
-        "name": "みやぎ電子申請サービス",
-        "url": "https://www.e-tetsuzuki99.com/eap-jmiyagi/"
       },
       {
         "name": "仙台市",
@@ -1590,14 +1534,6 @@
       {
         "name": "南三陸町",
         "url": "http://www.town.minamisanriku.miyagi.jp/"
-      },
-      {
-        "name": "石巻地区広域行政事務組合",
-        "url": "http://www.ikouiki.or.jp/info/"
-      },
-      {
-        "name": "宮城県後期高齢者医療広域連合",
-        "url": "http://www.miyagi-kouiki.jp/"
       }
     ]
   },
@@ -1607,14 +1543,6 @@
       {
         "name": "新潟県",
         "url": "http://www.pref.niigata.lg.jp/"
-      },
-      {
-        "name": "新潟県電子申請・届出の窓口",
-        "url": "http://www.pref.niigata.lg.jp/joho/1192551360808.html"
-      },
-      {
-        "name": "県内市町村の電子申請・届出",
-        "url": "http://www.pref.niigata.lg.jp/joho/1205860569825.html"
       },
       {
         "name": "新潟市",
@@ -1767,10 +1695,6 @@
       {
         "name": "粟島浦村",
         "url": "http://www.vill.awashimaura.lg.jp/"
-      },
-      {
-        "name": "新潟県後期高齢者医療広域連合",
-        "url": "http://www.niigata-kouiki.jp/"
       }
     ]
   },
@@ -1780,10 +1704,6 @@
       {
         "name": "福島県",
         "url": "http://wwwcms.pref.fukushima.jp/"
-      },
-      {
-        "name": "ふくしま県市町村共同電子申請システム",
-        "url": "http://wwwcms.pref.fukushima.jp/pcp_portal/PortalServlet;jsessionid=662BDD2DA981696F6EEB40634657704A?DISPLAY_ID=DIRECT&NEXT_DISPLAY_ID=U000004&CONTENTS_ID=26859"
       },
       {
         "name": "福島市",
@@ -2020,10 +1940,6 @@
       {
         "name": "飯舘村",
         "url": "http://www.vill.iitate.fukushima.jp/"
-      },
-      {
-        "name": "郡山地方広域消防組合",
-        "url": "http://www.shobo.koriyama.fukushima.jp/"
       }
     ]
   },
@@ -2033,10 +1949,6 @@
       {
         "name": "石川県",
         "url": "http://www.pref.ishikawa.lg.jp/"
-      },
-      {
-        "name": "石川県 申請・届出等手続オンラインシステム",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/ishikawa/"
       },
       {
         "name": "金沢市",
@@ -2113,10 +2025,6 @@
       {
         "name": "能登町",
         "url": "http://www.town.noto.lg.jp/"
-      },
-      {
-        "name": "羽咋郡市広域圏事務組合",
-        "url": "http://www.hakuikouiki.jp/"
       }
     ]
   },
@@ -2126,10 +2034,6 @@
       {
         "name": "富山県",
         "url": "http://www.pref.toyama.jp/"
-      },
-      {
-        "name": "eとやま.net",
-        "url": "http://e-toyama.net/"
       },
       {
         "name": "富山市",
@@ -2190,10 +2094,6 @@
       {
         "name": "朝日町",
         "url": "http://www.town.asahi.toyama.jp/"
-      },
-      {
-        "name": "砺波地方介護保険組合",
-        "url": "http://www.pci-area.tonami.toyama.jp/"
       }
     ]
   },
@@ -2203,10 +2103,6 @@
       {
         "name": "栃木県",
         "url": "http://www.pref.tochigi.lg.jp/"
-      },
-      {
-        "name": "栃木県行政手続インターネットサービス",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/tochigi/"
       },
       {
         "name": "宇都宮市",
@@ -2307,10 +2203,6 @@
       {
         "name": "那珂川町",
         "url": "http://www.town.tochigi-nakagawa.lg.jp/"
-      },
-      {
-        "name": "栃木県後期高齢者医療広域連合",
-        "url": "http://www.kouikirengo-tochigi.jp/"
       }
     ]
   },
@@ -2320,14 +2212,6 @@
       {
         "name": "群馬県",
         "url": "http://www.pref.gunma.lg.jp/"
-      },
-      {
-        "name": "ぐんま電子申請受付システム",
-        "url": "http://www.shinsei.elg-front.jp/gunma/navi/index.html"
-      },
-      {
-        "name": "群馬県域公共施設予約システム",
-        "url": "http://www3.pf489.com/gunma/web/"
       },
       {
         "name": "前橋市",
@@ -2477,10 +2361,6 @@
       {
         "name": "茨城県",
         "url": "http://www.pref.ibaraki.lg.jp/"
-      },
-      {
-        "name": "いばらき電子申請・届出サービス",
-        "url": "https://www1.asp-ibaraki.jp/e-home/SinseiPortal/toppage.do"
       },
       {
         "name": "水戸市",
@@ -2666,10 +2546,6 @@
       {
         "name": "長野県",
         "url": "http://www.pref.nagano.lg.jp/"
-      },
-      {
-        "name": "ながの電子申請サービス",
-        "url": "http://www.shinsei.elg-front.jp/nagano/"
       },
       {
         "name": "長野市",
@@ -2978,22 +2854,6 @@
       {
         "name": "栄村",
         "url": "http://www.vill.sakae.nagano.jp/"
-      },
-      {
-        "name": "長野県市町村自治振興組合",
-        "url": "http://www.union.nagano-map.lg.jp/"
-      },
-      {
-        "name": "上伊那広域連合",
-        "url": "http://www.union-kamiina.jp/"
-      },
-      {
-        "name": "長野県後期高齢者医療広域連合",
-        "url": "http://www.koukikourei-nagano.jp/"
-      },
-      {
-        "name": "諏訪広域連合",
-        "url": "http://www.wide-suwa.net/suwakouiki/"
       }
     ]
   },
@@ -3003,10 +2863,6 @@
       {
         "name": "埼玉県",
         "url": "http://www.pref.saitama.lg.jp/"
-      },
-      {
-        "name": "申請・届出サービス",
-        "url": "http://www.pref.saitama.lg.jp/site/emado/"
       },
       {
         "name": "さいたま市",
@@ -3299,30 +3155,6 @@
       {
         "name": "松伏町",
         "url": "http://www.town.matsubushi.lg.jp/"
-      },
-      {
-        "name": "越谷・松伏水道企業団",
-        "url": "http://www.koshi-matsu.koshigaya.saitama.jp/"
-      },
-      {
-        "name": "坂戸、鶴ヶ島水道企業団",
-        "url": "http://www.sakatsuru-suido.or.jp/"
-      },
-      {
-        "name": "埼玉東部消防組合消防局",
-        "url": "http://saitamatobu-119.jp/fb/"
-      },
-      {
-        "name": "埼玉西部消防組合",
-        "url": "http://www.saisei119.jp/"
-      },
-      {
-        "name": "埼玉県央広域事務組合",
-        "url": "http://www.ken-o.or.jp/"
-      },
-      {
-        "name": "埼玉県後期高齢者医療広域連合",
-        "url": "https://www.saitama-koukikourei.org/"
       }
     ]
   },
@@ -3332,14 +3164,6 @@
       {
         "name": "福井県",
         "url": "http://www.pref.fukui.lg.jp/"
-      },
-      {
-        "name": "電子申請・届出サービス",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/fukui/"
-      },
-      {
-        "name": "福井県電子自治体推進協議会",
-        "url": "https://www.e-tetsuzuki99.com/eap-rj/rsv_rj/Core_i/init.asp?KLCD=189999"
       },
       {
         "name": "福井市",
@@ -3408,14 +3232,6 @@
       {
         "name": "若狭町",
         "url": "http://www.town.fukui-wakasa.lg.jp/"
-      },
-      {
-        "name": "福井坂井地区広域市町村圏事務組合",
-        "url": "http://www.fukui.asovino.net/"
-      },
-      {
-        "name": "福井県丹南広域組合",
-        "url": "http://www.tannan.net/"
       }
     ]
   },
@@ -3425,10 +3241,6 @@
       {
         "name": "岐阜県",
         "url": "http://www.pref.gifu.lg.jp/"
-      },
-      {
-        "name": "岐阜県 : 各種申請（様式集）",
-        "url": "http://www.pref.gifu.lg.jp/kensei-unei/yoshiki-download/yoshiki/"
       },
       {
         "name": "岐阜市",
@@ -3597,10 +3409,6 @@
       {
         "name": "白川村",
         "url": "http://shirakawa-go.org/"
-      },
-      {
-        "name": "岐阜県市町村行政情報センター",
-        "url": "http://www.gaic.or.jp/"
       }
     ]
   },
@@ -3610,10 +3418,6 @@
       {
         "name": "東京都",
         "url": "http://www.metro.tokyo.jp/"
-      },
-      {
-        "name": "東京電子自治体共同運営サービス",
-        "url": "https://www.e-tokyo.lg.jp/"
       },
       {
         "name": "千代田区",
@@ -3862,22 +3666,6 @@
       {
         "name": "小笠原村",
         "url": "http://www.vill.ogasawara.tokyo.jp/"
-      },
-      {
-        "name": "特別区協議会",
-        "url": "http://www.tokyo-23city.or.jp/"
-      },
-      {
-        "name": "特別区人事・厚生事務組合",
-        "url": "http://www.tokyo23city.or.jp/"
-      },
-      {
-        "name": "東京市町村総合事務組合",
-        "url": "http://www.ctv-tokyo.or.jp/"
-      },
-      {
-        "name": "東京二十三区清掃一部事務組合",
-        "url": "http://www.union.tokyo23-seisou.lg.jp/"
       }
     ]
   },
@@ -3887,10 +3675,6 @@
       {
         "name": "鳥取県",
         "url": "http://www.pref.tottori.lg.jp/"
-      },
-      {
-        "name": "鳥取県　申請・届出の窓口",
-        "url": "http://www.shinsei.pref.tottori.lg.jp/"
       },
       {
         "name": "鳥取市",
@@ -3976,10 +3760,6 @@
       {
         "name": "山梨県",
         "url": "http://www.pref.yamanashi.jp/"
-      },
-      {
-        "name": "山梨県電子申請ポータルサイト",
-        "url": "https://www.e-tetsuzuki99.com/eap-pj/yamanashi/"
       },
       {
         "name": "甲府市",
@@ -4088,10 +3868,6 @@
       {
         "name": "丹波山村",
         "url": "http://www.vill.tabayama.yamanashi.jp/"
-      },
-      {
-        "name": "峡南広域行政組合計算センター",
-        "url": "http://www.kyonan.jp/60about/02center/index.html"
       }
     ]
   },
@@ -4101,10 +3877,6 @@
       {
         "name": "千葉県",
         "url": "http://www.pref.chiba.lg.jp/"
-      },
-      {
-        "name": "ちば電子申請サービス",
-        "url": "http://www.shinsei.elg-front.jp/chiba/navi/index.html"
       },
       {
         "name": "千葉市",
@@ -4345,30 +4117,6 @@
       {
         "name": "鋸南町",
         "url": "http://www.town.kyonan.chiba.jp/"
-      },
-      {
-        "name": "千葉県市町村総合事務組合",
-        "url": "http://www.ctv-chiba.or.jp/"
-      },
-      {
-        "name": "山武郡市広域行政組合",
-        "url": "http://www.sanbukouiki-chiba.jp/"
-      },
-      {
-        "name": "印西地区消防組合",
-        "url": "http://fire-inzaichiku.eco.coocan.jp/"
-      },
-      {
-        "name": "北千葉広域水道企業団",
-        "url": "http://www.kitachiba-water.or.jp/"
-      },
-      {
-        "name": "君津広域水道企業団",
-        "url": "http://www.kimi-kouiki.jp/"
-      },
-      {
-        "name": "千葉県後期高齢者医療広域連合",
-        "url": "http://www.kouiki-chiba.jp/"
       }
     ]
   },
@@ -4526,10 +4274,6 @@
       {
         "name": "与謝野町",
         "url": "http://www.town-yosano.jp/"
-      },
-      {
-        "name": "京都府後期高齢者医療広域連合",
-        "url": "http://www.kouiki-kyoto.jp/"
       }
     ]
   },
@@ -4539,10 +4283,6 @@
       {
         "name": "神奈川県",
         "url": "http://www.pref.kanagawa.jp/"
-      },
-      {
-        "name": "神奈川電子自治体共同運営サービス",
-        "url": "https://www.asp-e-kanagawa.lg.jp/"
       },
       {
         "name": "横浜市",
@@ -4787,14 +4527,6 @@
       {
         "name": "清川村",
         "url": "http://www.town.kiyokawa.kanagawa.jp/"
-      },
-      {
-        "name": "神奈川県内広域水道企業団",
-        "url": "http://www.kwsa.or.jp/"
-      },
-      {
-        "name": "神奈川県後期高齢者医療広域連合",
-        "url": "http://www.union.kanagawa.lg.jp/"
       }
     ]
   },
@@ -4804,10 +4536,6 @@
       {
         "name": "島根県",
         "url": "http://www.pref.shimane.lg.jp/"
-      },
-      {
-        "name": "しまね電子申請サービス",
-        "url": "http://www.shimane.elg-front.jp/"
       },
       {
         "name": "松江市",
@@ -4895,10 +4623,6 @@
         "url": "http://www.pref.shiga.lg.jp/"
       },
       {
-        "name": "しがネット受付サービス",
-        "url": "http://www.pref.shiga.lg.jp/c/it/shinsei/shiganet.html"
-      },
-      {
         "name": "大津市",
         "url": "http://www.city.otsu.shiga.jp/"
       },
@@ -4973,10 +4697,6 @@
       {
         "name": "多賀町",
         "url": "http://www.tagatown.jp/"
-      },
-      {
-        "name": "滋賀県後期高齢者医療広域連合",
-        "url": "http://www.shigakouiki.jp/"
       }
     ]
   },
@@ -4986,10 +4706,6 @@
       {
         "name": "兵庫県",
         "url": "http://web.pref.hyogo.lg.jp/"
-      },
-      {
-        "name": "兵庫県電子申請共同運営システム（e-ひょうご）",
-        "url": "http://e-hyogo.elg-front.jp/navi/index.html"
       },
       {
         "name": "神戸市",
@@ -5190,14 +4906,6 @@
       {
         "name": "新温泉町",
         "url": "http://www.town.shinonsen.hyogo.jp/"
-      },
-      {
-        "name": "南但広域行政事務組合",
-        "url": "http://sr-co.mail-box.ne.jp/nantan/index.html"
-      },
-      {
-        "name": "兵庫県後期高齢者医療広域連合",
-        "url": "http://www.kouiki-hyogo.jp/"
       }
     ]
   },
@@ -5207,10 +4915,6 @@
       {
         "name": "岡山県",
         "url": "http://www.pref.okayama.lg.jp/"
-      },
-      {
-        "name": "岡山県・市町村電子申請サービス",
-        "url": "http://www.pref.okayama.jp/kikaku/joho/denshi/denshi/index.html"
       },
       {
         "name": "岡山市",
@@ -5335,10 +5039,6 @@
       {
         "name": "吉備中央町",
         "url": "http://www.town.kibichuo.lg.jp/"
-      },
-      {
-        "name": "岡山中央総合情報公社",
-        "url": "http://www.jkousya.or.jp/"
       }
     ]
   },
@@ -5348,10 +5048,6 @@
       {
         "name": "愛知県",
         "url": "http://www.pref.aichi.jp/"
-      },
-      {
-        "name": "あいち電子申請総合窓口",
-        "url": "https://www.shinsei.e-aichi.jp/SinseiPotal/"
       },
       {
         "name": "名古屋市",
@@ -5632,14 +5328,6 @@
       {
         "name": "豊根村",
         "url": "http://www.vill.toyone.aichi.jp/"
-      },
-      {
-        "name": "名古屋港管理組合",
-        "url": "http://www.port-authority.minato.nagoya.jp/"
-      },
-      {
-        "name": "愛知県後期高齢者医療広域連合",
-        "url": "http://www.aichi-kouiki.jp/"
       }
     ]
   },
@@ -5649,14 +5337,6 @@
       {
         "name": "静岡県",
         "url": "http://www.pref.shizuoka.jp/"
-      },
-      {
-        "name": "静岡県／電子行政サービス",
-        "url": "http://www.pref.shizuoka.jp/a_content/service/index.html"
-      },
-      {
-        "name": "静岡県内市町の電子申請・届出サービス",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/shizuoka/"
       },
       {
         "name": "静岡市",
@@ -5848,10 +5528,6 @@
         "url": "http://www.pref.hiroshima.lg.jp/"
       },
       {
-        "name": "ひろしま申請・予約ポータルサイト「ひろしまくらしのeネット」",
-        "url": "http://www.pref.hiroshima.lg.jp/soshiki/9/e-net.html"
-      },
-      {
         "name": "広島市",
         "url": "http://www.city.hiroshima.lg.jp/"
       },
@@ -5983,10 +5659,6 @@
       {
         "name": "大阪府",
         "url": "http://www.pref.osaka.lg.jp/"
-      },
-      {
-        "name": "大阪府ピピっとネット",
-        "url": "http://www.pref.osaka.jp/annai/"
       },
       {
         "name": "大阪市",
@@ -6283,14 +5955,6 @@
       {
         "name": "千早赤阪村",
         "url": "http://www.vill.chihayaakasaka.osaka.jp/"
-      },
-      {
-        "name": "くすのき広域連合",
-        "url": "http://www.kusunoki-rengo.jp/"
-      },
-      {
-        "name": "大阪府後期高齢者医療広域連合",
-        "url": "http://www.kouikirengo-osaka.jp/"
       }
     ]
   },
@@ -6300,10 +5964,6 @@
       {
         "name": "山口県",
         "url": "http://www.pref.yamaguchi.lg.jp/"
-      },
-      {
-        "name": "やまぐち電子申請サービス",
-        "url": "http://www.shinsei.elg-front.jp/yamaguchi/navi/index.html"
       },
       {
         "name": "下関市",
@@ -6389,10 +6049,6 @@
       {
         "name": "三重県",
         "url": "http://www.pref.mie.lg.jp/"
-      },
-      {
-        "name": "三重県申請・届出等手続の総合窓口",
-        "url": "http://www.shinsei.pref.mie.lg.jp/"
       },
       {
         "name": "津市",
@@ -6509,10 +6165,6 @@
       {
         "name": "紀宝町",
         "url": "http://www.town.kiho.lg.jp/"
-      },
-      {
-        "name": "三重県後期高齢者医療広域連合",
-        "url": "http://mie-kouiki.jp/"
       }
     ]
   },
@@ -6522,14 +6174,6 @@
       {
         "name": "香川県",
         "url": "http://www.pref.kagawa.lg.jp/"
-      },
-      {
-        "name": "電子申請・届出サービス",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/kagawa/"
-      },
-      {
-        "name": "施設利用申込サービス",
-        "url": "http://www.pf489.com/kagawa/web/"
       },
       {
         "name": "高松市",
@@ -6598,14 +6242,6 @@
       {
         "name": "まんのう町",
         "url": "http://www.town.manno.lg.jp/"
-      },
-      {
-        "name": "三観広域行政組合",
-        "url": "http://www.sankankouiki.jp/"
-      },
-      {
-        "name": "中讃広域行政事務組合",
-        "url": "http://www.chusan.or.jp/"
       }
     ]
   },
@@ -6615,10 +6251,6 @@
       {
         "name": "奈良県",
         "url": "http://www.pref.nara.jp/"
-      },
-      {
-        "name": "e古都なら",
-        "url": "http://www.egov-nara.jp/e-kotonara/"
       },
       {
         "name": "奈良市",
@@ -6784,10 +6416,6 @@
       {
         "name": "福岡県",
         "url": "http://www.pref.fukuoka.lg.jp/"
-      },
-      {
-        "name": "ふくおか電子申請サービス",
-        "url": "http://www.shinsei.elg-front.jp/fukuoka/navi/index.html"
       },
       {
         "name": "北九州市",
@@ -7084,10 +6712,6 @@
       {
         "name": "築上町",
         "url": "http://www.town.chikujo.fukuoka.jp/"
-      },
-      {
-        "name": "福岡県後期高齢者医療広域連合",
-        "url": "http://www.fukuoka-kouki.jp/"
       }
     ]
   },
@@ -7097,10 +6721,6 @@
       {
         "name": "徳島県",
         "url": "http://www.pref.tokushima.jp/"
-      },
-      {
-        "name": "徳島県・市町村電子自治体共同システム総合案内",
-        "url": "http://www.pref.tokushima.jp/docs/2009012900030/"
       },
       {
         "name": "徳島市",
@@ -7208,10 +6828,6 @@
         "url": "http://www.pref.ehime.jp/"
       },
       {
-        "name": "愛媛県簡易申請システム（電子申請）",
-        "url": "http://www.shinsei-ehime.lg.jp/"
-      },
-      {
         "name": "松山市",
         "url": "http://www.city.matsuyama.ehime.jp/"
       },
@@ -7301,10 +6917,6 @@
         "url": "http://www.pref.saga.lg.jp/"
       },
       {
-        "name": "佐賀県：電子申請システムへようこそ",
-        "url": "https://www.pref.saga.lg.jp/shinsei/"
-      },
-      {
         "name": "佐賀市",
         "url": "http://www.city.saga.lg.jp/"
       },
@@ -7383,10 +6995,6 @@
       {
         "name": "太良町",
         "url": "http://www.town.tara.saga.jp/"
-      },
-      {
-        "name": "杵藤地区広域市町村圏組合",
-        "url": "http://www.kitou-web.jp/"
       }
     ]
   },
@@ -7396,10 +7004,6 @@
       {
         "name": "和歌山県",
         "url": "http://www.pref.wakayama.lg.jp/"
-      },
-      {
-        "name": "和歌山県電子申請システム",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/wakayama/"
       },
       {
         "name": "和歌山市",
@@ -7520,10 +7124,6 @@
       {
         "name": "串本町",
         "url": "http://www.town.kushimoto.wakayama.jp/"
-      },
-      {
-        "name": "御坊広域行政事務組合",
-        "url": "http://www.naxnet.or.jp/~gobokoui/"
       }
     ]
   },
@@ -7680,10 +7280,6 @@
         "url": "http://www.pref.oita.jp/"
       },
       {
-        "name": "大分県電子申請システム 総合窓口",
-        "url": "https://www.egov-oita.pref.oita.jp/PortalJuminWeb/GuestPageShow.do"
-      },
-      {
         "name": "大分市",
         "url": "http://www.city.oita.oita.jp/"
       },
@@ -7763,10 +7359,6 @@
       {
         "name": "長崎県",
         "url": "http://www.pref.nagasaki.lg.jp/"
-      },
-      {
-        "name": "長崎県：電子県庁の窓口",
-        "url": "http://www.pref.nagasaki.lg.jp/joho/madoguchi/"
       },
       {
         "name": "長崎市",
@@ -7851,14 +7443,6 @@
       {
         "name": "新上五島町",
         "url": "http://official.shinkamigoto.net/"
-      },
-      {
-        "name": "島原地域広域市町村圏組合",
-        "url": "http://www.shimabara-area.net/site/"
-      },
-      {
-        "name": "長崎県後期高齢者医療広域連合",
-        "url": "http://www.nagasaki-kouiki.jp/"
       }
     ]
   },
@@ -7868,10 +7452,6 @@
       {
         "name": "熊本県",
         "url": "http://www.pref.kumamoto.jp/"
-      },
-      {
-        "name": "くまもと電子申請窓口：よろず申請本舗",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/kumamoto/"
       },
       {
         "name": "熊本市",
@@ -8083,10 +7663,6 @@
         "url": "http://www.pref.miyazaki.lg.jp/"
       },
       {
-        "name": "宮崎県電子申請システム 総合窓口",
-        "url": "https://s-kantan.com/pref-miyazaki-u/"
-      },
-      {
         "name": "宮崎市",
         "url": "http://www.city.miyazaki.miyazaki.jp/"
       },
@@ -8198,10 +7774,6 @@
       {
         "name": "鹿児島県",
         "url": "http://www.pref.kagoshima.jp/"
-      },
-      {
-        "name": "鹿児島県電子申請共同運営システム（e（いー）申請）",
-        "url": "http://www.shinsei.elg-front.jp/kagoshima/"
       },
       {
         "name": "鹿児島市",
@@ -8385,10 +7957,6 @@
         "url": "http://www.pref.okinawa.lg.jp/"
       },
       {
-        "name": "沖縄県内市町村の電子申請・届出サービス",
-        "url": "https://www.e-tetsuzuki99.com/eap-jportal/okinawa/"
-      },
-      {
         "name": "那覇市",
         "url": "http://www.city.naha.okinawa.jp/"
       },
@@ -8551,10 +8119,6 @@
       {
         "name": "与那国町",
         "url": "http://www.town.yonaguni.okinawa.jp/"
-      },
-      {
-        "name": "沖縄県介護保険広域連合",
-        "url": "http://www.okinawa-kouiki.jp/"
       }
     ]
   }
