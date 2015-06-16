@@ -55,4 +55,4 @@ out = page.css("#map_201412162522 area").map.with_index do |area, index|
   end
 end
 
-File.write ARGV[0], out.to_json
+File.write ARGV[0], JSON.pretty_generate(out)
