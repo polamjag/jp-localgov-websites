@@ -12,6 +12,23 @@ entrypoint = "/map-search/cms_1069.html"
 
 abort 'specify output file as argument' if ARGV[0].nil?
 
+def parse_table(table)
+  ret = []
+  ret << table.css('th a').map do |tr|
+    {
+      name: tr.text.strip,
+      url: tr.attribute('href').value
+    }
+  end
+  ret << table.css('td a').map do |tr|
+    {
+      name: tr.text.strip,
+      url: tr.attribute('href').value
+   }
+  end
+  ret.compact
+end
+
 page = Nokogiri::HTML.parse open host + entrypoint
 
 out = page.css("#map_201412162522 area").map.with_index do |area, index|
@@ -26,31 +43,17 @@ out = page.css("#map_201412162522 area").map.with_index do |area, index|
     {
       pref: "北海道",
       municipalities: (
-        muni = area_page.css("map area").select do |n|
-          n.attribute('href').value =~ /^\/map/
-        end.map do |n|
+        area_page.css(".wb-contents h3 a").map do |n|
           sleep INTERVAL
 
-          Nokogiri::HTML.parse(open host + n.attribute('href').value).css('map area').map do |h|
-            {
-              name: h.attribute('alt').value,
-              url: h.attribute('href').value
-            } unless h.attribute('href').nil?
-          end
-        end.flatten
-      )
+          parse_table Nokogiri::HTML.parse(open host + n.attribute('href').value).css('table.listtbl')
+        end
+      ).flatten.compact.uniq
     }
   else
     {
-      pref: pref,
-      municipalities: (
-        muni = area_page.css("map area").map do |n|
-          {
-            name: n.attribute('alt').value,
-            url: n.attribute('href').value
-          } unless n.attribute('href').nil?
-        end.compact
-      )
+      pref: area_page.xpath('/html/body/div[2]/div/div[2]/div/div/div/div[2]/div[1]/h1').first.text,
+      municipalities: parse_table(area_page.css('table.listtbl'))
     }
   end
 end
