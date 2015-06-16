@@ -13,20 +13,17 @@ entrypoint = "/map-search/cms_1069.html"
 abort 'specify output file as argument' if ARGV[0].nil?
 
 def parse_table(table)
-  ret = []
-  ret.concat(table.css('th a').map do |tr|
+  table.css('th a').map do |tr|
     {
       name: tr.text.strip,
       url: tr.attribute('href').value
     }
-  end)
-  ret.concat(table.css('td a').map do |tr|
+  end.concat(table.css('td a').map do |tr|
     {
       name: tr.text.strip,
       url: tr.attribute('href').value
    }
   end)
-  ret
 end
 
 page = Nokogiri::HTML.parse open host + entrypoint
